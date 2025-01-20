@@ -1,6 +1,5 @@
 
 <img src="https://github.com/siyu-xd/siyu-xd/blob/ff5cea9a6051d32f07b69ad84f8f7a767b474e16/assets/girl.jpg" width="30%" align="left" height="480"/>
-<img src="https://readme-typing-svg.demolab.com?font=arialblack&weight=500&size=50&duration=4000&pause=300&color=f1948a&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=KoniChiwa+sensei;I'm+Siyu%2C+an+otaku+and+tech+girl+%E2%9C%A9" width="60%" />
 
 ```markdown
 👩‍⚕️ 𝙱.𝙿𝚑𝚊𝚛𝚖 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 | 𝙵𝚞𝚝𝚞𝚛𝚎 𝙿𝚑𝚊𝚛𝚖𝚊𝚌𝚒𝚜𝚝
